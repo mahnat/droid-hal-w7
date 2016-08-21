@@ -5,9 +5,6 @@
 %define device_pretty Optimus L90
 %define installable_zip 1
 %define straggler_files \
-/init.mmi.boot.sh\
-/init.mmi.touch.sh\
-/init.qcom.ssr.sh\
 /selinux_version\
 /service_contexts\
 %{nil}
